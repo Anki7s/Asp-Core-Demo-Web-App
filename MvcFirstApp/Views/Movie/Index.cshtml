@@ -1,0 +1,36 @@
+﻿@model IEnumerable<MvcFirstApp.Models.Movie>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row my-3">
+    <img class="rounded mx-auto d-block" src="~/images/1705400.jpg" alt="Movie Icon" />
+</div>
+<div class="row my-2">
+    <div class="col-8 offset-2">
+        @Html.ActionLink("Add Movie Details", "Save", "Movie", null, new { @class = "btn btn-block btn-primary" })
+    </div>
+</div>
+
+<div class="row justify-content-md-center my-3">
+    @foreach (var item in Model)
+    {
+        <div class="card col-md-3 my-2 mx-2 offset-1">
+            <img class="card-img-top" src="~/images/1594221.jpg" alt="Movie Icon" />
+            <div class="card-body">
+                <h4 class="card-title text-center font-weight-bold text-danger">
+                    @Html.DisplayFor(modelItem => item.Title)
+                </h4>
+                <p class="card-text text-primary font-weight-bold">
+                    Movie Star:  @Html.DisplayFor(modelItem => item.MovieStar)
+                </p>
+                <p class="card-text text-warning font-weight-bold">
+                    Movie type: @Html.DisplayFor(modelItem => item.MovieType)
+                </p>
+                @Html.ActionLink("View", "Details", new { id = item.Id }, new { @class = "btn btn-sm btn-primary" })
+                @Html.ActionLink("Edit Movie", "Save", new { id = item.Id }, new { @class = "btn btn-sm btn-warning" })
+                @Html.ActionLink("Delete", "Delete", new { id = item.Id }, new { @class = "btn btn-sm btn-danger" })
+            </div>
+        </div>
+    }
+</div>

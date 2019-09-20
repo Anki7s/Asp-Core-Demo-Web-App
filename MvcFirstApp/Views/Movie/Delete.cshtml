@@ -1,0 +1,43 @@
+﻿@model MvcFirstApp.Models.Movie
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<ol class="breadcrumb my-4">
+    @Html.ActionLink("Home", "Index", "Movie", new object { }, new { @class = "breadcrumb-item" })
+    <li class="breadcrumb-item active">Delete Movie Details</li>
+</ol>
+
+<div class="card border-danger">
+    <div class="col-md-6 card-body offset-3">
+        <div class="form-horizontal">
+            <h4 class="font-weight-bold text-danger">Delete moves details</h4>
+            <hr />
+            <div class="form-group">
+                @Html.LabelFor(model => model.Title, htmlAttributes: new { @class = "control-label font-weight-bold" })
+                <div class="px-3">
+                    @Html.DisplayFor(model => model.Title)
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(model => model.MovieType, htmlAttributes: new { @class = "control-label font-weight-bold" })
+                <div class="px-3">
+                    @Html.DisplayFor(model => model.MovieType)
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(model => model.MovieStar, htmlAttributes: new { @class = "control-label font-weight-bold" })
+                <div class="px-3">
+                    @Html.DisplayFor(model => model.MovieStar)
+                </div>
+            </div>
+            <div class="form-group">
+                @using (Html.BeginForm("Delete", "Movie", FormMethod.Post))
+                {
+                    <input type="submit" value="Delete Details" class="btn  btn-outline-danger" />
+                }
+            </div>
+        </div>
+    </div>
+</div>

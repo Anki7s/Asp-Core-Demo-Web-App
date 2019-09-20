@@ -1,0 +1,80 @@
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp\MvcFirstApp\bin\Debug\netcoreapp2.2\MvcFirstApp.deps.json
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp\MvcFirstApp\bin\Debug\netcoreapp2.2\MvcFirstApp.runtimeconfig.json
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp\MvcFirstApp\bin\Debug\netcoreapp2.2\MvcFirstApp.runtimeconfig.dev.json
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp\MvcFirstApp\bin\Debug\netcoreapp2.2\MvcFirstApp.dll
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.csproj.CoreCompileInputs.cache
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.RazorAssemblyInfo.cache
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.RazorAssemblyInfo.cs
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.AssemblyInfoInputs.cache
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.AssemblyInfo.cs
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.RazorTargetAssemblyInfo.cache
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp\MvcFirstApp\bin\Debug\netcoreapp2.2\MvcFirstApp.pdb
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.dll
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.pdb
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp\MvcFirstApp\bin\Debug\netcoreapp2.2\MvcFirstApp.Views.dll
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp\MvcFirstApp\bin\Debug\netcoreapp2.2\MvcFirstApp.Views.pdb
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.TagHelpers.input.cache
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.TagHelpers.output.cache
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.RazorCoreGenerate.cache
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.RazorTargetAssemblyInfo.cs
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.Views.pdb
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.csproj.CopyComplete
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp\MvcFirstApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.csprojAssemblyReference.cache
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp\MvcFirstApp\obj\Debug\netcoreapp2.2\Razor\Views\Movie\Delete.g.cshtml.cs
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp\MvcFirstApp\obj\Debug\netcoreapp2.2\Razor\Views\Movie\Details.g.cshtml.cs
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp\MvcFirstApp\obj\Debug\netcoreapp2.2\Razor\Views\Movie\Index.g.cshtml.cs
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp\MvcFirstApp\obj\Debug\netcoreapp2.2\Razor\Views\Movie\Save.g.cshtml.cs
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp - Backup\MvcFirstApp\bin\Debug\netcoreapp2.2\MvcFirstApp.deps.json
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp - Backup\MvcFirstApp\bin\Debug\netcoreapp2.2\MvcFirstApp.runtimeconfig.json
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp - Backup\MvcFirstApp\bin\Debug\netcoreapp2.2\MvcFirstApp.runtimeconfig.dev.json
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp - Backup\MvcFirstApp\bin\Debug\netcoreapp2.2\MvcFirstApp.dll
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp - Backup\MvcFirstApp\bin\Debug\netcoreapp2.2\MvcFirstApp.pdb
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp - Backup\MvcFirstApp\bin\Debug\netcoreapp2.2\MvcFirstApp.Views.dll
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp - Backup\MvcFirstApp\bin\Debug\netcoreapp2.2\MvcFirstApp.Views.pdb
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp - Backup\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.csproj.CoreCompileInputs.cache
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp - Backup\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.RazorAssemblyInfo.cache
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp - Backup\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.RazorAssemblyInfo.cs
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp - Backup\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.AssemblyInfoInputs.cache
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp - Backup\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.AssemblyInfo.cs
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp - Backup\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.TagHelpers.input.cache
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp - Backup\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.TagHelpers.output.cache
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp - Backup\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.RazorCoreGenerate.cache
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp - Backup\MvcFirstApp\obj\Debug\netcoreapp2.2\Razor\Views\Movie\Delete.g.cshtml.cs
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp - Backup\MvcFirstApp\obj\Debug\netcoreapp2.2\Razor\Views\Movie\Details.g.cshtml.cs
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp - Backup\MvcFirstApp\obj\Debug\netcoreapp2.2\Razor\Views\Movie\Index.g.cshtml.cs
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp - Backup\MvcFirstApp\obj\Debug\netcoreapp2.2\Razor\Views\Movie\Save.g.cshtml.cs
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp - Backup\MvcFirstApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp - Backup\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.RazorTargetAssemblyInfo.cache
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp - Backup\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.RazorTargetAssemblyInfo.cs
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp - Backup\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.Views.pdb
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp - Backup\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.dll
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp - Backup\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.pdb
+D:\Ankitkumar-Singh\Asp-Core-Mvc\MvcFirstApp - Backup\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.csproj.CopyComplete
+D:\Ankitkumar-Singh\Asp-Core-Mvc\ASP Core Assignment 3-4\MvcFirstApp\bin\Debug\netcoreapp2.2\MvcFirstApp.deps.json
+D:\Ankitkumar-Singh\Asp-Core-Mvc\ASP Core Assignment 3-4\MvcFirstApp\bin\Debug\netcoreapp2.2\MvcFirstApp.runtimeconfig.json
+D:\Ankitkumar-Singh\Asp-Core-Mvc\ASP Core Assignment 3-4\MvcFirstApp\bin\Debug\netcoreapp2.2\MvcFirstApp.runtimeconfig.dev.json
+D:\Ankitkumar-Singh\Asp-Core-Mvc\ASP Core Assignment 3-4\MvcFirstApp\bin\Debug\netcoreapp2.2\MvcFirstApp.dll
+D:\Ankitkumar-Singh\Asp-Core-Mvc\ASP Core Assignment 3-4\MvcFirstApp\bin\Debug\netcoreapp2.2\MvcFirstApp.pdb
+D:\Ankitkumar-Singh\Asp-Core-Mvc\ASP Core Assignment 3-4\MvcFirstApp\bin\Debug\netcoreapp2.2\MvcFirstApp.Views.dll
+D:\Ankitkumar-Singh\Asp-Core-Mvc\ASP Core Assignment 3-4\MvcFirstApp\bin\Debug\netcoreapp2.2\MvcFirstApp.Views.pdb
+D:\Ankitkumar-Singh\Asp-Core-Mvc\ASP Core Assignment 3-4\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.csprojAssemblyReference.cache
+D:\Ankitkumar-Singh\Asp-Core-Mvc\ASP Core Assignment 3-4\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.csproj.CoreCompileInputs.cache
+D:\Ankitkumar-Singh\Asp-Core-Mvc\ASP Core Assignment 3-4\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.RazorAssemblyInfo.cache
+D:\Ankitkumar-Singh\Asp-Core-Mvc\ASP Core Assignment 3-4\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.RazorAssemblyInfo.cs
+D:\Ankitkumar-Singh\Asp-Core-Mvc\ASP Core Assignment 3-4\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.AssemblyInfoInputs.cache
+D:\Ankitkumar-Singh\Asp-Core-Mvc\ASP Core Assignment 3-4\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.AssemblyInfo.cs
+D:\Ankitkumar-Singh\Asp-Core-Mvc\ASP Core Assignment 3-4\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.TagHelpers.input.cache
+D:\Ankitkumar-Singh\Asp-Core-Mvc\ASP Core Assignment 3-4\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.TagHelpers.output.cache
+D:\Ankitkumar-Singh\Asp-Core-Mvc\ASP Core Assignment 3-4\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.RazorCoreGenerate.cache
+D:\Ankitkumar-Singh\Asp-Core-Mvc\ASP Core Assignment 3-4\MvcFirstApp\obj\Debug\netcoreapp2.2\Razor\Views\Movie\Delete.g.cshtml.cs
+D:\Ankitkumar-Singh\Asp-Core-Mvc\ASP Core Assignment 3-4\MvcFirstApp\obj\Debug\netcoreapp2.2\Razor\Views\Movie\Details.g.cshtml.cs
+D:\Ankitkumar-Singh\Asp-Core-Mvc\ASP Core Assignment 3-4\MvcFirstApp\obj\Debug\netcoreapp2.2\Razor\Views\Movie\Index.g.cshtml.cs
+D:\Ankitkumar-Singh\Asp-Core-Mvc\ASP Core Assignment 3-4\MvcFirstApp\obj\Debug\netcoreapp2.2\Razor\Views\Movie\Save.g.cshtml.cs
+D:\Ankitkumar-Singh\Asp-Core-Mvc\ASP Core Assignment 3-4\MvcFirstApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Ankitkumar-Singh\Asp-Core-Mvc\ASP Core Assignment 3-4\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.RazorTargetAssemblyInfo.cache
+D:\Ankitkumar-Singh\Asp-Core-Mvc\ASP Core Assignment 3-4\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.RazorTargetAssemblyInfo.cs
+D:\Ankitkumar-Singh\Asp-Core-Mvc\ASP Core Assignment 3-4\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.Views.pdb
+D:\Ankitkumar-Singh\Asp-Core-Mvc\ASP Core Assignment 3-4\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.dll
+D:\Ankitkumar-Singh\Asp-Core-Mvc\ASP Core Assignment 3-4\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.pdb
+D:\Ankitkumar-Singh\Asp-Core-Mvc\ASP Core Assignment 3-4\MvcFirstApp\obj\Debug\netcoreapp2.2\MvcFirstApp.csproj.CopyComplete
